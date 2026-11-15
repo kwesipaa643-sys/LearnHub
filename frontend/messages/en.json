@@ -1,0 +1,168 @@
+{
+  "nav": {
+    "courses": "Courses",
+    "categories": "Categories",
+    "signin": "Sign in",
+    "getStarted": "Get started",
+    "myLearning": "My Learning",
+    "profile": "Profile",
+    "settings": "Settings",
+    "signout": "Sign out",
+    "adminPanel": "Admin Panel",
+    "instructorDashboard": "Instructor Dashboard"
+  },
+  "home": {
+    "hero": {
+      "badge": "Join 50,000+ learners worldwide",
+      "title": "Learn Without",
+      "titleHighlight": "Limits",
+      "description": "Expert-led courses in development, design, business, and more. Build real skills at your own pace.",
+      "cta": "Explore courses",
+      "ctaSecondary": "Become an instructor"
+    },
+    "stats": {
+      "courses": "Expert courses",
+      "learners": "Active learners",
+      "rating": "Average rating",
+      "certificates": "Certificates issued"
+    },
+    "categories": {
+      "title": "Browse by Category",
+      "subtitle": "Explore our most popular learning paths",
+      "viewAll": "All categories"
+    },
+    "featured": {
+      "title": "Featured Courses",
+      "subtitle": "Hand-picked by our team",
+      "viewAll": "View all"
+    }
+  },
+  "course": {
+    "enroll": "Enroll for Free",
+    "buyNow": "Buy Now",
+    "addToCart": "Add to cart",
+    "continueLearning": "Continue Learning",
+    "editCourse": "Edit Course",
+    "free": "Free",
+    "students": "students",
+    "lessons": "lessons",
+    "hours": "hours",
+    "level": "Level",
+    "language": "Language",
+    "whatYouLearn": "What you'll learn",
+    "requirements": "Requirements",
+    "aboutCourse": "About this course",
+    "aboutInstructor": "About the instructor",
+    "curriculum": "Curriculum",
+    "reviews": "Reviews",
+    "discussion": "Discussion",
+    "includes": "This course includes",
+    "lifetimeAccess": "Full lifetime access",
+    "certificate": "Certificate of completion",
+    "preview": "Preview",
+    "noRatings": "No ratings yet"
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome back",
+      "subtitle": "Sign in to continue your learning journey",
+      "email": "Email address",
+      "password": "Password",
+      "forgotPassword": "Forgot password?",
+      "submit": "Sign in",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign up for free",
+      "continueWith": "or continue with email"
+    },
+    "register": {
+      "title": "Create your account",
+      "subtitle": "Start learning or teaching today — free forever",
+      "name": "Full name",
+      "email": "Email address",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "role": {
+        "student": "Student",
+        "studentDesc": "Learn new skills",
+        "instructor": "Instructor",
+        "instructorDesc": "Share your knowledge"
+      },
+      "terms": "I agree to the",
+      "termsLink": "Terms of Service",
+      "privacy": "and",
+      "privacyLink": "Privacy Policy",
+      "submit": "Create account",
+      "hasAccount": "Already have an account?",
+      "signin": "Sign in"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "pickUp": "Pick up where you left off",
+    "stats": {
+      "enrolled": "Enrolled Courses",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "hoursLearned": "Hours Learned"
+    },
+    "continueLearning": "Continue Learning",
+    "inProgress": "In Progress",
+    "notStarted": "Not Started",
+    "completedCourses": "Completed",
+    "empty": {
+      "title": "Start your learning journey",
+      "description": "You haven't enrolled in any courses yet.",
+      "cta": "Browse Courses"
+    },
+    "certificates": "My Certificates",
+    "viewAll": "View all"
+  },
+  "learn": {
+    "backToCourse": "Back to course",
+    "progress": "Progress",
+    "markComplete": "Mark complete",
+    "completed": "Completed",
+    "next": "Next",
+    "prev": "Prev",
+    "myNotes": "My Notes",
+    "noNotes": "No notes yet. Use the notes panel in the video player to add notes.",
+    "discussion": "Discussion"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "orderSummary": "Order Summary",
+    "coupon": "Coupon code",
+    "apply": "Apply",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "total": "Total",
+    "guarantee": "30-Day Money-Back Guarantee",
+    "guaranteeDesc": "Not satisfied? Get a full refund within 30 days, no questions asked.",
+    "paymentMethod": "Payment Method",
+    "proceedToPayment": "Proceed to Payment",
+    "payNow": "Pay Now",
+    "processing": "Processing...",
+    "secured": "Secured by Stripe. Your payment info is encrypted.",
+    "emptyCart": "Your cart is empty",
+    "emptyCartDesc": "Add some courses and come back here."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "sortBy": "Sort by",
+    "noResults": "No results found",
+    "viewAll": "View all",
+    "learnMore": "Learn more",
+    "comingSoon": "Coming soon",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode"
+  }
+}

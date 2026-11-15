@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "courses": "Cours",
+    "categories": "Catégories",
+    "signin": "Connexion",
+    "getStarted": "Commencer",
+    "myLearning": "Mon Apprentissage",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "signout": "Déconnexion"
+  },
+  "home": {
+    "hero": {
+      "badge": "Rejoignez 50 000+ apprenants",
+      "title": "Apprenez Sans",
+      "titleHighlight": "Limites",
+      "description": "Des cours dirigés par des experts en développement, design, business et plus encore.",
+      "cta": "Explorer les cours",
+      "ctaSecondary": "Devenir instructeur"
+    },
+    "featured": {
+      "title": "Cours en Vedette",
+      "subtitle": "Sélectionnés par notre équipe",
+      "viewAll": "Voir tout"
+    }
+  },
+  "course": {
+    "enroll": "S'inscrire Gratuitement",
+    "buyNow": "Acheter",
+    "free": "Gratuit",
+    "students": "étudiants",
+    "lessons": "leçons",
+    "hours": "heures",
+    "continueLearning": "Continuer l'Apprentissage"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Quelque chose s'est mal passé",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "search": "Rechercher"
+  }
+}

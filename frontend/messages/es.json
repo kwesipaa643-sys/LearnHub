@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "courses": "Cursos",
+    "categories": "Categorías",
+    "signin": "Iniciar sesión",
+    "getStarted": "Comenzar",
+    "myLearning": "Mi Aprendizaje",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "signout": "Cerrar sesión",
+    "adminPanel": "Panel de Admin",
+    "instructorDashboard": "Panel del Instructor"
+  },
+  "home": {
+    "hero": {
+      "badge": "Únete a más de 50,000 estudiantes",
+      "title": "Aprende Sin",
+      "titleHighlight": "Límites",
+      "description": "Cursos impartidos por expertos en desarrollo, diseño, negocios y más. Desarrolla habilidades reales a tu ritmo.",
+      "cta": "Explorar cursos",
+      "ctaSecondary": "Conviértete en instructor"
+    },
+    "stats": {
+      "courses": "Cursos expertos",
+      "learners": "Estudiantes activos",
+      "rating": "Valoración media",
+      "certificates": "Certificados emitidos"
+    },
+    "categories": {
+      "title": "Explorar por Categoría",
+      "subtitle": "Explora nuestros itinerarios de aprendizaje más populares",
+      "viewAll": "Todas las categorías"
+    },
+    "featured": {
+      "title": "Cursos Destacados",
+      "subtitle": "Seleccionados por nuestro equipo",
+      "viewAll": "Ver todos"
+    }
+  },
+  "course": {
+    "enroll": "Inscribirse Gratis",
+    "buyNow": "Comprar Ahora",
+    "addToCart": "Añadir al carrito",
+    "continueLearning": "Continuar Aprendiendo",
+    "free": "Gratis",
+    "students": "estudiantes",
+    "lessons": "lecciones",
+    "hours": "horas"
+  },
+  "auth": {
+    "login": {
+      "title": "Bienvenido de vuelta",
+      "subtitle": "Inicia sesión para continuar tu aprendizaje",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "submit": "Iniciar sesión",
+      "noAccount": "¿No tienes cuenta?",
+      "signup": "Regístrate gratis"
+    },
+    "register": {
+      "title": "Crea tu cuenta",
+      "subtitle": "Empieza a aprender o enseñar hoy — siempre gratis",
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "submit": "Crear cuenta",
+      "hasAccount": "¿Ya tienes cuenta?",
+      "signin": "Iniciar sesión"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "search": "Buscar",
+    "viewAll": "Ver todo"
+  }
+}
