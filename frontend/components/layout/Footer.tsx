@@ -1,3 +1,4 @@
+'use client';
 // components/layout/Footer.tsx
 import Link from 'next/link';
 import { BookOpen, Twitter, Github, Linkedin, Youtube } from 'lucide-react';
