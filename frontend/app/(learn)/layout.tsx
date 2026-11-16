@@ -11,7 +11,7 @@ export default function LearnLayout({ children }: { children: React.ReactNode })
 }
 
 // ─── app/not-found.tsx ────────────────────────────────────────
-export function NotFound() {
+function NotFound() {
   return (
     <div className="min-h-screen flex items-center justify-center px-4 text-center">
       <div>
